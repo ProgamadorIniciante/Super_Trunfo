@@ -11,6 +11,7 @@ float area1;
 float pib1;
 float densidade_populacional1;
 float pib_per_capita1;
+float super_poder1;
 
 printf("*** Senhoras e Senhores, Sejam Bem vindos ao Super Trunfo!!! ***\n");
 printf("Estado: ");
@@ -50,6 +51,7 @@ pib_per_capita1 = (float) pib1 / populacao1;
     float pib;
     float densidade_populacional;
     float pib_per_capita;
+    float super_poder;
     
     printf("Estado: ");
     scanf("%s", estado);
